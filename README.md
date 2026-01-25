@@ -1,23 +1,83 @@
-<h1 align="center">Hi 👋, I'm Keyvano Rifqi Andriansyah</h1>
-<h3 align="center">I started to explore the world of programming since I was in the 10th grade of high school and I came from the software engineering department, I was quite able to create a website using Laravel, and I am now exploring and learning about cyber security.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Hi%20I'm%20Keyvano&fontSize=70&animation=fadeIn" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keyvano07&label=Profile%20views&color=0e75b6&style=flat" alt="keyvano07" /> </p>
+  <h1>👋 I'm Keyvano Rifqi Andriansyah</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyvano07" alt="keyvano07" /></a> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Fullstack+Laravel+%26+Next.js+Developer;Cyber+Security+Enthusiast;IoT+Explorer" alt="Typing SVG" />
 
-- 💬 Ask me about **Laravel, PHP, Python, C**
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=keyvano07&label=Profile%20views&color=0e75b6&style=flat-square" alt="keyvano07" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyvano07&theme=onedark&column=4" alt="trophy" /></a>
+  </p>
+</div>
 
-- 📫 How to reach me **keyvanoandriansyah@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🚀 About Me
+- 🎓 **Software Engineering Student** | Started coding in 10th grade.
+- 💻 **Currently working on:** A multi-tenant Finance Dashboard for UMKM using **Next.js** & **Supabase**.
+- 🛡️ **Interest:** Deep diving into **Cyber Security** and CTF challenges.
+- ⚙️ **IoT:** Experienced in building IoT-based systems (ESP32 & MicroPython).
+- 💬 **Ask me about:** Laravel, Next.js, and IoT stuff.
+
+---
+
+### 🛠️ Tech Stack & Tools
+<div align="left">
+  <table>
+    <tr>
+      <td valign="top" width="25%"><strong>Languages</strong></td>
+      <td valign="top" width="25%"><strong>Frontend</strong></td>
+      <td valign="top" width="25%"><strong>Backend</strong></td>
+      <td valign="top" width="25%"><strong>Tools/Other</strong></td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keyvano07&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyvano07&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyvano07&theme=tokyonight" width="97%" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keyvano07&show_icons=true&locale=en&layout=compact" alt="keyvano07" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyvano07&show_icons=true&locale=en" alt="keyvano07" /></p>
+### 📫 Connect with Me
+<p align="left">
+  <a href="mailto:keyvanoandriansyah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/keyvano07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keyvano07&" alt="keyvano07" /></p>
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
