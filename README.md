@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=220&section=header&text=Keyvano%20Rifqi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=60&descAlign=50" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Fullstack+Next.js+%26+Laravel;Cyber+Security+Enthusiast;IoT+%26+Embedded+Systems;Building+UMKM+Finance+Dashboard" alt="Typing SVG" />
-  </a>
+</br>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=keyvano07&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
